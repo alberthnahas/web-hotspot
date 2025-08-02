@@ -1,5 +1,7 @@
 # Indonesian Hotspot Analysis
 
+![](image/update_hotspot.png)
+
 This repository provides a comprehensive suite of Python scripts and associated data files for the analysis of hotspot data across Indonesia. Forest and land fires are a significant environmental concern in Indonesia, and monitoring hotspot activity is crucial for early warning, prevention, and mitigation efforts. The scripts in this repository are designed to automate the process of downloading, processing, and visualizing hotspot data from NASA's Fire Information for Resource Management System (FIRMS), offering valuable insights into the spatial and temporal distribution of fire activity throughout the archipelago. This project aims to provide a clear and reproducible workflow for hotspot analysis, which can be utilized by researchers, government agencies, and other stakeholders.
 
 ## Data
@@ -32,5 +34,3 @@ The `image` directory contains visual assets related to the project.
 ## License
 
 This project is licensed under the GNU General Public License v3.0. This means you are free to use, modify, and distribute the code, provided you adhere to the terms of the license. For more details, please see the `LICENSE` file in the repository.
-
-![](image/update_hotspot.png)
