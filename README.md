@@ -32,3 +32,5 @@ The `image` directory contains visual assets related to the project.
 ## License
 
 This project is licensed under the GNU General Public License v3.0. This means you are free to use, modify, and distribute the code, provided you adhere to the terms of the license. For more details, please see the `LICENSE` file in the repository.
+
+![](image/update_hotspot.png)
